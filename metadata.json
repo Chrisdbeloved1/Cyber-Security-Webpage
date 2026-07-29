@@ -1,0 +1,6 @@
+{
+  "name": "Cybreon Consulting",
+  "description": "World-class cybersecurity consulting, threat intelligence, and enterprise zero-trust architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
